@@ -1,0 +1,15 @@
+D:\CMS_Sample\CMS_WebApp\WebApp.Services\obj\Debug\net8.0\WebApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\CMS_Sample\CMS_WebApp\WebApp.Services\obj\Debug\net8.0\WebApp.Services.AssemblyInfoInputs.cache
+D:\CMS_Sample\CMS_WebApp\WebApp.Services\obj\Debug\net8.0\WebApp.Services.AssemblyInfo.cs
+D:\CMS_Sample\CMS_WebApp\WebApp.Services\obj\Debug\net8.0\WebApp.Services.csproj.CoreCompileInputs.cache
+D:\CMS_Sample\CMS_WebApp\WebApp.Services\obj\Debug\net8.0\WebApp.Services.csproj.AssemblyReference.cache
+D:\CMS_Sample\CMS_WebApp\WebApp.Services\bin\Debug\net8.0\WebApp.Services.deps.json
+D:\CMS_Sample\CMS_WebApp\WebApp.Services\bin\Debug\net8.0\WebApp.Services.dll
+D:\CMS_Sample\CMS_WebApp\WebApp.Services\bin\Debug\net8.0\WebApp.Services.pdb
+D:\CMS_Sample\CMS_WebApp\WebApp.Services\bin\Debug\net8.0\WebApp.Entity.dll
+D:\CMS_Sample\CMS_WebApp\WebApp.Services\bin\Debug\net8.0\WebApp.Entity.pdb
+D:\CMS_Sample\CMS_WebApp\WebApp.Services\obj\Debug\net8.0\WebApp.S.F396901C.Up2Date
+D:\CMS_Sample\CMS_WebApp\WebApp.Services\obj\Debug\net8.0\WebApp.Services.dll
+D:\CMS_Sample\CMS_WebApp\WebApp.Services\obj\Debug\net8.0\refint\WebApp.Services.dll
+D:\CMS_Sample\CMS_WebApp\WebApp.Services\obj\Debug\net8.0\WebApp.Services.pdb
+D:\CMS_Sample\CMS_WebApp\WebApp.Services\obj\Debug\net8.0\ref\WebApp.Services.dll
