@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5j04W2KBdes=",
+  "dgSpecHash": "i0w7bX4mP7A=",
   "success": true,
-  "projectFilePath": "D:\\CMS_Sample\\CMS_WebApp\\CMS_WebApp\\CMS_WebApp.csproj",
+  "projectFilePath": "D:\\Sample_project\\CMS_Backend\\CMS_WebApp\\CMS_WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MZ00724\\.nuget\\packages\\automapper\\16.1.1\\automapper.16.1.1.nupkg.sha512",
     "C:\\Users\\MZ00724\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
@@ -96,9 +96,9 @@
       "code": "NU1608",
       "level": "Warning",
       "message": "Detected package version outside of dependency constraint: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requires AutoMapper (= 12.0.1) but version AutoMapper 16.1.1 was resolved.",
-      "projectPath": "D:\\CMS_Sample\\CMS_WebApp\\CMS_WebApp\\CMS_WebApp.csproj",
+      "projectPath": "D:\\Sample_project\\CMS_Backend\\CMS_WebApp\\CMS_WebApp.csproj",
       "warningLevel": 1,
-      "filePath": "D:\\CMS_Sample\\CMS_WebApp\\CMS_WebApp\\CMS_WebApp.csproj",
+      "filePath": "D:\\Sample_project\\CMS_Backend\\CMS_WebApp\\CMS_WebApp.csproj",
       "libraryId": "AutoMapper",
       "targetGraphs": [
         "net8.0"

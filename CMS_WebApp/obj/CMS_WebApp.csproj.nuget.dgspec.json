@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CMS_Sample\\CMS_WebApp\\CMS_WebApp\\CMS_WebApp.csproj": {}
+    "D:\\Sample_project\\CMS_Backend\\CMS_WebApp\\CMS_WebApp.csproj": {}
   },
   "projects": {
-    "D:\\CMS_Sample\\CMS_WebApp\\CMS_WebApp\\CMS_WebApp.csproj": {
+    "D:\\Sample_project\\CMS_Backend\\CMS_WebApp\\CMS_WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CMS_Sample\\CMS_WebApp\\CMS_WebApp\\CMS_WebApp.csproj",
+        "projectUniqueName": "D:\\Sample_project\\CMS_Backend\\CMS_WebApp\\CMS_WebApp.csproj",
         "projectName": "CMS_WebApp",
-        "projectPath": "D:\\CMS_Sample\\CMS_WebApp\\CMS_WebApp\\CMS_WebApp.csproj",
+        "projectPath": "D:\\Sample_project\\CMS_Backend\\CMS_WebApp\\CMS_WebApp.csproj",
         "packagesPath": "C:\\Users\\MZ00724\\.nuget\\packages\\",
-        "outputPath": "D:\\CMS_Sample\\CMS_WebApp\\CMS_WebApp\\obj\\",
+        "outputPath": "D:\\Sample_project\\CMS_Backend\\CMS_WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\CMS_Sample\\CMS_WebApp\\WebApp.Entity\\WebApp.Entity.csproj": {
-                "projectPath": "D:\\CMS_Sample\\CMS_WebApp\\WebApp.Entity\\WebApp.Entity.csproj"
+              "D:\\Sample_project\\CMS_Backend\\WebApp.Entity\\WebApp.Entity.csproj": {
+                "projectPath": "D:\\Sample_project\\CMS_Backend\\WebApp.Entity\\WebApp.Entity.csproj"
               },
-              "D:\\CMS_Sample\\CMS_WebApp\\WebApp.Services\\WebApp.Services.csproj": {
-                "projectPath": "D:\\CMS_Sample\\CMS_WebApp\\WebApp.Services\\WebApp.Services.csproj"
+              "D:\\Sample_project\\CMS_Backend\\WebApp.Services\\WebApp.Services.csproj": {
+                "projectPath": "D:\\Sample_project\\CMS_Backend\\WebApp.Services\\WebApp.Services.csproj"
               }
             }
           }
@@ -85,14 +85,14 @@
         }
       }
     },
-    "D:\\CMS_Sample\\CMS_WebApp\\WebApp.Entity\\WebApp.Entity.csproj": {
+    "D:\\Sample_project\\CMS_Backend\\WebApp.Entity\\WebApp.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CMS_Sample\\CMS_WebApp\\WebApp.Entity\\WebApp.Entity.csproj",
+        "projectUniqueName": "D:\\Sample_project\\CMS_Backend\\WebApp.Entity\\WebApp.Entity.csproj",
         "projectName": "WebApp.Entity",
-        "projectPath": "D:\\CMS_Sample\\CMS_WebApp\\WebApp.Entity\\WebApp.Entity.csproj",
+        "projectPath": "D:\\Sample_project\\CMS_Backend\\WebApp.Entity\\WebApp.Entity.csproj",
         "packagesPath": "C:\\Users\\MZ00724\\.nuget\\packages\\",
-        "outputPath": "D:\\CMS_Sample\\CMS_WebApp\\WebApp.Entity\\obj\\",
+        "outputPath": "D:\\Sample_project\\CMS_Backend\\WebApp.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -173,14 +173,14 @@
         }
       }
     },
-    "D:\\CMS_Sample\\CMS_WebApp\\WebApp.Services\\WebApp.Services.csproj": {
+    "D:\\Sample_project\\CMS_Backend\\WebApp.Services\\WebApp.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CMS_Sample\\CMS_WebApp\\WebApp.Services\\WebApp.Services.csproj",
+        "projectUniqueName": "D:\\Sample_project\\CMS_Backend\\WebApp.Services\\WebApp.Services.csproj",
         "projectName": "WebApp.Services",
-        "projectPath": "D:\\CMS_Sample\\CMS_WebApp\\WebApp.Services\\WebApp.Services.csproj",
+        "projectPath": "D:\\Sample_project\\CMS_Backend\\WebApp.Services\\WebApp.Services.csproj",
         "packagesPath": "C:\\Users\\MZ00724\\.nuget\\packages\\",
-        "outputPath": "D:\\CMS_Sample\\CMS_WebApp\\WebApp.Services\\obj\\",
+        "outputPath": "D:\\Sample_project\\CMS_Backend\\WebApp.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -201,8 +201,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\CMS_Sample\\CMS_WebApp\\WebApp.Entity\\WebApp.Entity.csproj": {
-                "projectPath": "D:\\CMS_Sample\\CMS_WebApp\\WebApp.Entity\\WebApp.Entity.csproj"
+              "D:\\Sample_project\\CMS_Backend\\WebApp.Entity\\WebApp.Entity.csproj": {
+                "projectPath": "D:\\Sample_project\\CMS_Backend\\WebApp.Entity\\WebApp.Entity.csproj"
               }
             }
           }
